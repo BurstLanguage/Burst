@@ -1,0 +1,24 @@
+*
+!*/
+
+# C files
+!*.c
+!*.h
+
+# Make files
+!*.mk
+!Makefile
+!Makefile.*
+
+# Documentation files
+!*.md
+!*.txt
+
+# Miscellaneous files
+!.git*
+
+# Ignore *nix backup files
+*~
+
+# Burst files
+!*.burst

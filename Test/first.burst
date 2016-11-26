@@ -1,0 +1,3 @@
+int valueNul;
+int valueOne = 42;
+int valueTwo = 2112;
